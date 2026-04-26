@@ -47,20 +47,25 @@ Personal reference notes from TryHackMe Pre Security and Cyber Security 101 path
 > Networking · Linux · Web Fundamentals · Recon · Web Attacks
 
 ---
-
 ## 📈 Progress
 
-```
+\```
 ✅ TryHackMe — Pre Security
 ✅ TryHackMe — Cyber Security 101
 🔄 TryHackMe — Jr Penetration Tester  (in progress)
-🚩 PicoCTF    — Web Exploitation      (active)
-```
+🔄 HackTheBox — Penetration Tester CPTS (in progress)
+   ✅ Penetration Testing Process
+   🔄 Getting Started (30%)
+🚩 PicoCTF    — Web Exploitation (active)
+\```
+
+
 
 ---
 
 ## 🔗 Find Me
 
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-anonyrnous-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/anonyrnous)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-anonyrnous-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anonyrnous)
 [![PicoCTF](https://img.shields.io/badge/PicoCTF-anonyrnous-blue?style=flat&logoColor=white)](https://play.picoctf.org/users/anonyrnous)
 
