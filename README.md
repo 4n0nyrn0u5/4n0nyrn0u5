@@ -61,8 +61,8 @@ Personal reference notes from TryHackMe Pre Security and Cyber Security 101 path
 
 ## 🔗 Find Me
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-anonyrnous-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/4n0nyrn0u5)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-anonyrnous-blue?style=flat&logoColor=white)](https://play.picoctf.org)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-anonyrnous-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anonyrnous)
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-anonyrnous-blue?style=flat&logoColor=white)](https://play.picoctf.org/users/anonyrnous)
 
 ---
 
