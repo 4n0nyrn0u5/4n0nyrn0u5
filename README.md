@@ -1,4 +1,4 @@
-# Hey, I'm Uzakov 👋
+# Hey, I'm Anonymous 👋
 
 > Aspiring Penetration Tester | Web Security Enthusiast | CTF Player
 
