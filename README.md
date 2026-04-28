@@ -1,4 +1,4 @@
-# Hey, I'm 4n0nyrn0u5 👋
+# Hey, I'm Uzakov 👋
 
 > Aspiring Penetration Tester | Web Security Enthusiast | CTF Player
 
