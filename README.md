@@ -24,13 +24,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Penetration Testing**
-- Web Application Testing (SQLi, XSS, IDOR, LFI, SSTI, SSRF)
-- Reconnaissance & OSINT (Nmap, Gobuster, Shodan, Google Dorks)
-- Authentication & Session attacks (JWT, Cookie manipulation)
+- Web Application Testing (SQLi, XSS, IDOR, LFI, SSRF, RCE, Race Conditions, DOM-Based Attacks)
+- Reconnaissance & OSINT (Nmap, Gobuster, Shodan, Google Dorks, crt.sh, Subfinder)
+- Authentication & Session attacks (JWT, Cookie manipulation, Brute Force, SQL Bypass)
+- Content & Subdomain Discovery (ffuf, VHost enumeration, DNS brute forcing)
 
 **Tools**
 - Burp Suite · Nmap · Gobuster · ffuf · sqlmap · Nikto
 - curl · Netcat · Hydra · steghide · CyberChef
+- Subfinder · Amass · Dirb · SQLMap
 
 ---
 
@@ -46,19 +48,14 @@ Personal reference notes from TryHackMe Pre Security and Cyber Security 101 path
 
 > Networking · Linux · Web Fundamentals · Recon · Web Attacks
 
+### 🌐 [Web Hacking Notes](https://github.com/4n0nyrn0u5/web-hacking-notes)
+Detailed notes and cheatsheets for TryHackMe Jr Pentester — Introduction to Web Hacking module.
+
+> Walking An Application · Content Discovery · Subdomain Enumeration · Auth Bypass · IDOR · LFI/RFI · SSRF · XSS · Command Injection · SQL Injection · Race Conditions · DOM-Based Attacks
+
 ---
+
 ## 📈 Progress
-
-\```
-✅ TryHackMe — Pre Security
-✅ TryHackMe — Cyber Security 101
-🔄 TryHackMe — Jr Penetration Tester  (in progress)
-🔄 HackTheBox — Penetration Tester CPTS (in progress)
-   ✅ Penetration Testing Process
-   🔄 Getting Started (30%)
-🚩 PicoCTF    — Web Exploitation (active)
-\```
-
 
 
 ---
