@@ -58,32 +58,31 @@ Personal cheatsheets for TryHackMe Jr Pentester — Burp Suite module.
 
 > Proxy · Repeater · Intruder · Decoder · Comparer · Extensions
 ---
-
 ## 📈 Progress
+
+```
 ✅ TryHackMe — Pre Security
 ✅ TryHackMe — Cyber Security 101
-🔄 TryHackMe — Jr Penetration Tester  (in progress)
-✅ Introduction to Web Hacking
-✅ Walking An Application
-✅ Content Discovery
-✅ Subdomain Enumeration
-✅ Authentication Bypass
-✅ IDOR
-✅ File Inclusion
-✅ SSRF
-✅ XSS
-✅ Command Injection
-✅ SQL Injection
-✅ Race Conditions
-✅ DOM-Based Attacks
-🔄 HackTheBox — Penetration Tester CPTS (in progress)
-✅ Penetration Testing Process
-🔄 Getting Started (30%)
-🚩 PicoCTF    — Web Exploitation (active)
-🔄 TryHackMe — Jr Penetration Tester
+🔄 TryHackMe — Jr Penetration Tester (in progress)
    ✅ Introduction to Web Hacking
+      ✅ Walking An Application
+      ✅ Content Discovery
+      ✅ Subdomain Enumeration
+      ✅ Authentication Bypass
+      ✅ IDOR
+      ✅ File Inclusion
+      ✅ SSRF
+      ✅ XSS
+      ✅ Command Injection
+      ✅ SQL Injection
+      ✅ Race Conditions
+      ✅ DOM-Based Attacks
    🔄 Burp Suite (in progress)
----
+🔄 HackTheBox — Penetration Tester CPTS (in progress)
+   ✅ Penetration Testing Process
+   🔄 Getting Started (30%)
+🚩 PicoCTF — Web Exploitation (active)
+```
 
 ## 🔗 Find Me
 
