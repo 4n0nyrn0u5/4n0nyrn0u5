@@ -53,6 +53,10 @@ Detailed notes and cheatsheets for TryHackMe Jr Pentester — Introduction to We
 
 > Walking An Application · Content Discovery · Subdomain Enumeration · Auth Bypass · IDOR · LFI/RFI · SSRF · XSS · Command Injection · SQL Injection · Race Conditions · DOM-Based Attacks
 
+### 🔧 [Burp Suite Notes](https://github.com/4n0nyrn0u5/burp-suite-notes)
+Personal cheatsheets for TryHackMe Jr Pentester — Burp Suite module.
+
+> Proxy · Repeater · Intruder · Decoder · Comparer · Extensions
 ---
 
 ## 📈 Progress
@@ -76,7 +80,9 @@ Detailed notes and cheatsheets for TryHackMe Jr Pentester — Introduction to We
 ✅ Penetration Testing Process
 🔄 Getting Started (30%)
 🚩 PicoCTF    — Web Exploitation (active)
-
+🔄 TryHackMe — Jr Penetration Tester
+   ✅ Introduction to Web Hacking
+   🔄 Burp Suite (in progress)
 ---
 
 ## 🔗 Find Me
