@@ -30,9 +30,10 @@
 - Content & Subdomain Discovery (ffuf, VHost enumeration, DNS brute forcing)
 
 **Tools**
-- Burp Suite · Nmap · Gobuster · ffuf · sqlmap · Nikto
-- curl · Netcat · Hydra · steghide · CyberChef
-- Subfinder · Amass · Dirb · SQLMap
+- Burp Suite (Proxy · Repeater · Intruder · Decoder · Comparer · Extensions)
+- Nmap · Gobuster · ffuf · sqlmap · Nikto · Hydra
+- curl · Netcat · steghide · CyberChef
+- Subfinder · Amass · Dirb
 
 ---
 
@@ -57,7 +58,9 @@ Detailed notes and cheatsheets for TryHackMe Jr Pentester — Introduction to We
 Personal cheatsheets for TryHackMe Jr Pentester — Burp Suite module.
 
 > Proxy · Repeater · Intruder · Decoder · Comparer · Extensions
+
 ---
+
 ## 📈 Progress
 
 ```
@@ -83,6 +86,7 @@ Personal cheatsheets for TryHackMe Jr Pentester — Burp Suite module.
    🔄 Getting Started (30%)
 🚩 PicoCTF — Web Exploitation (active)
 ```
+---
 
 ## 🔗 Find Me
 
