@@ -1,15 +1,17 @@
-# Hey, I'm Anonymous 👋
+# Hey, I'm 4n0nyrn0u5 👋
 
-> Aspiring Penetration Tester | Web Security Enthusiast | CTF Player
+> Aspiring Penetration Tester | Web Security Enthusiast | CTF Player | IDU — Cybersecurity Student
 
 ---
 
 ## 🎯 About Me
 
-- 🔐 Currently focused on **Web Penetration Testing** and **Red Team** techniques
+- 🎓 Cybersecurity student at **International Digital University (IDU)** — 3rd year
+- 🔐 Focused on **Web Penetration Testing** and **Red Team** techniques
 - 📚 Completed **TryHackMe Pre Security** and **Cyber Security 101** paths
-- 🚩 Actively solving **PicoCTF** challenges
 - 🔄 Currently progressing through **TryHackMe Jr Penetration Tester**
+- 🏆 TryHackMe **World Top 4%** — Rank 69,229 | 104 streak | 103 rooms | 22 badges
+- 🚩 Solved **79+ PicoCTF** challenges across all categories
 - 🌱 Always learning — one vulnerability at a time
 
 ---
@@ -28,21 +30,28 @@
 - Reconnaissance & OSINT (Nmap, Gobuster, Shodan, Google Dorks, crt.sh, Subfinder)
 - Authentication & Session attacks (JWT, Cookie manipulation, Brute Force, SQL Bypass)
 - Content & Subdomain Discovery (ffuf, VHost enumeration, DNS brute forcing)
+- Privilege Escalation (sudo misconfiguration, SUID binaries, GTFOBins)
+- Cryptography (ROT13, Base64, XOR, RSA, A1Z26, endianness, Unicode)
+- Forensics (Steganography, Disk imaging, EXIF metadata, File carving, Log analysis)
+- Reverse Engineering (XOR decryption, hash cracking, binary analysis, Ghidra)
+- Git Forensics (commit history, branch analysis, git blame)
 
 **Tools**
 - Burp Suite (Proxy · Repeater · Intruder · Decoder · Comparer · Extensions)
 - Nmap · Gobuster · ffuf · sqlmap · Nikto · Hydra
-- curl · Netcat · steghide · CyberChef
-- Subfinder · Amass · Dirb
+- curl · Netcat · ssh · steghide · zsteg · CyberChef
+- Subfinder · Amass · Dirb · smbclient · enum4linux
+- Ghidra · binwalk · foremost · exiftool · john · hashcat
+- strings · find · grep · xxd · hexedit
 
 ---
 
 ## 📂 Projects
 
 ### 🚩 [PicoCTF Writeups](https://github.com/4n0nyrn0u5/picoctf-writeups)
-Step-by-step solutions for PicoCTF challenges covering Web Exploitation, Forensics, and OSINT.
+Step-by-step solutions for 79+ PicoCTF challenges across all categories.
 
-> SQLi · XSS · JWT · Cookie Manipulation · Steganography · Log Analysis
+> SQLi · XSS · JWT · Cookie Manipulation · Command Injection · eval() RCE · Steganography · RSA · Git Forensics · Privilege Escalation · Hash Cracking · Binary Analysis · SMB Enumeration
 
 ### 📚 [TryHackMe Cheatsheets](https://github.com/4n0nyrn0u5/tryhackme-cheatsheets)
 Personal reference notes from TryHackMe Pre Security and Cyber Security 101 paths.
@@ -81,17 +90,24 @@ Personal cheatsheets for TryHackMe Jr Pentester — Burp Suite module.
       ✅ Race Conditions
       ✅ DOM-Based Attacks
    🔄 Burp Suite (in progress)
-🔄 HackTheBox — Penetration Tester CPTS (in progress)
+🔄 HackTheBox Academy — Penetration Tester CPTS (in progress)
    ✅ Penetration Testing Process
    🔄 Getting Started (30%)
-🚩 PicoCTF — Web Exploitation (active)
+🚩 PicoCTF — 79+ challenges solved (active)
+   ✅ Web Exploitation (SQLi, XSS, IDOR, LFI, SSTI, RCE, JWT, Cookie)
+   ✅ Cryptography (ROT13, Base64, XOR, RSA, Unicode, Endianness)
+   ✅ Forensics (Steganography, EXIF, Disk imaging, Log analysis)
+   ✅ General Skills (SSH, Netcat, Git, Python, Linux)
+   ✅ Reverse Engineering (Hash cracking, Binary analysis, SMB)
 ```
+
 ---
 
 ## 🔗 Find Me
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-anonyrnous-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anonyrnous)
 [![PicoCTF](https://img.shields.io/badge/PicoCTF-anonyrnous-blue?style=flat&logoColor=white)](https://play.picoctf.org/users/anonyrnous)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox_Academy-anonyrnous-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com)
 
 ---
 
