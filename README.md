@@ -1,4 +1,4 @@
-# Hey, I'm anonyrnous 👋
+# Hey, I'm Anonyrnous 👋
 
 > Aspiring Penetration Tester | Web Security Enthusiast | CTF Player | IDU — Cybersecurity Student
 
