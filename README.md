@@ -10,7 +10,7 @@
 - 🔐 Focused on **Web Penetration Testing** and **Red Team** techniques
 - 📚 Completed **TryHackMe Pre Security** and **Cyber Security 101** paths
 - 🔄 Currently progressing through **TryHackMe Jr Penetration Tester**
-- 🏆 TryHackMe **World Top 4%** — Rank 69,229 | 104 streak | 103 rooms | 22 badges
+- 🏆 TryHackMe **World Top 3%** — Rank 59,024 | 111 streak | 113 rooms | 23 badges
 - 🚩 Solved **79+ PicoCTF** challenges across all categories
 - 🌱 Always learning — one vulnerability at a time
 
