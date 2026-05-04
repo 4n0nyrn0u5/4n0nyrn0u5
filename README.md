@@ -1,4 +1,4 @@
-# Hey, I'm Anonymous 👋
+# Hey, I'm 4n0nyrn0u5 👋
 
 > Aspiring Penetration Tester | Web Security Enthusiast | CTF Player | IDU — Cybersecurity Student
 
@@ -11,7 +11,7 @@
 - 📚 Completed **TryHackMe Pre Security** and **Cyber Security 101** paths
 - 🔄 Currently progressing through **TryHackMe Jr Penetration Tester**
 - 🏆 TryHackMe **World Top 3%** — Rank 59,024 | 111 streak | 113 rooms | 23 badges
-- 🚩 Solved **79+ PicoCTF** challenges across all categories
+- 🚩 Solved **93+ PicoCTF** challenges across all categories
 - 🌱 Always learning — one vulnerability at a time
 
 ---
@@ -34,14 +34,16 @@
 - Cryptography (ROT13, Base64, XOR, RSA, A1Z26, endianness, Unicode)
 - Forensics (Steganography, Disk imaging, EXIF metadata, File carving, Log analysis)
 - Reverse Engineering (XOR decryption, hash cracking, binary analysis, Ghidra)
+- Binary Exploitation (Heap overflow, Format string, PIE/ASLR bypass, pwntools)
 - Git Forensics (commit history, branch analysis, git blame)
 
 **Tools**
 - Burp Suite (Proxy · Repeater · Intruder · Decoder · Comparer · Extensions)
 - Nmap · Gobuster · ffuf · sqlmap · Nikto · Hydra
-- curl · Netcat · ssh · steghide · zsteg · CyberChef
+- curl · Netcat · ssh · scp · steghide · zsteg · CyberChef
 - Subfinder · Amass · Dirb · smbclient · enum4linux
-- Ghidra · binwalk · foremost · exiftool · john · hashcat
+- Ghidra · gdb · pwntools · binwalk · foremost
+- exiftool · john · hashcat · zbarimg · sha256sum
 - strings · find · grep · xxd · hexedit
 
 ---
@@ -49,9 +51,9 @@
 ## 📂 Projects
 
 ### 🚩 [PicoCTF Writeups](https://github.com/4n0nyrn0u5/picoctf-writeups)
-Step-by-step solutions for 79+ PicoCTF challenges across all categories.
+Step-by-step solutions for 93+ PicoCTF challenges across all categories.
 
-> SQLi · XSS · JWT · Cookie Manipulation · Command Injection · eval() RCE · Steganography · RSA · Git Forensics · Privilege Escalation · Hash Cracking · Binary Analysis · SMB Enumeration
+> SQLi · XSS · JWT · Cookie Manipulation · Command Injection · eval() RCE · Heap Overflow · Format String · PIE Bypass · Steganography · RSA · Git Forensics · Privilege Escalation · Hash Cracking · QR Decode · Polyglot Files
 
 ### 📚 [TryHackMe Cheatsheets](https://github.com/4n0nyrn0u5/tryhackme-cheatsheets)
 Personal reference notes from TryHackMe Pre Security and Cyber Security 101 paths.
@@ -93,12 +95,13 @@ Personal cheatsheets for TryHackMe Jr Pentester — Burp Suite module.
 🔄 HackTheBox Academy — Penetration Tester CPTS (in progress)
    ✅ Penetration Testing Process
    🔄 Getting Started (30%)
-🚩 PicoCTF — 79+ challenges solved (active)
+🚩 PicoCTF — 93+ challenges solved (active)
    ✅ Web Exploitation (SQLi, XSS, IDOR, LFI, SSTI, RCE, JWT, Cookie)
    ✅ Cryptography (ROT13, Base64, XOR, RSA, Unicode, Endianness)
-   ✅ Forensics (Steganography, EXIF, Disk imaging, Log analysis)
-   ✅ General Skills (SSH, Netcat, Git, Python, Linux)
+   ✅ Forensics (Steganography, EXIF, Disk imaging, Polyglot files)
+   ✅ General Skills (SSH, Netcat, Git, Python, QR decode, SHA256)
    ✅ Reverse Engineering (Hash cracking, Binary analysis, SMB)
+   ✅ Binary Exploitation (Heap overflow, Format string, PIE bypass)
 ```
 
 ---
