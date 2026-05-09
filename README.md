@@ -1,16 +1,15 @@
 # Hey, I'm Anonymous 👋
 
-> Aspiring Penetration Tester | Web Security Enthusiast | CTF Player | IDU — Cybersecurity Student
+> Aspiring Penetration Tester | Web Security Enthusiast | CTF Player
 
 ---
 
 ## 🎯 About Me
 
-- 🎓 Cybersecurity student at **International Digital University (IDU)** — 3rd year
 - 🔐 Focused on **Web Penetration Testing** and **Red Team** techniques
 - 📚 Completed **TryHackMe Pre Security** and **Cyber Security 101** paths
 - 🔄 Currently progressing through **TryHackMe Jr Penetration Tester**
-- 🏆 TryHackMe **World Top 3%** — Rank 58,414 | 112 streak | 113 rooms | 24 badges
+- 🏆 TryHackMe **World Top 3%** 
 - 🚩 Solved **93+ PicoCTF** challenges across all categories
 - 🌱 Always learning — one vulnerability at a time
 
