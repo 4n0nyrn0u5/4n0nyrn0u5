@@ -78,26 +78,40 @@ Personal cheatsheets for TryHackMe Jr Pentester — Burp Suite module.
 ---
 
 ## 📈 Progress
+
+```
 ✅ TryHackMe — Pre Security
 ✅ TryHackMe — Cyber Security 101
 🔄 TryHackMe — Jr Penetration Tester (in progress)
-✅ Web Fundamentals
-✅ How The Web Works (DNS, HTTP, Websites, Putting Together)
-✅ Introduction to Web Hacking (12 rooms)
-✅ Burp Suite (5 rooms)
-✅ Web Hacking Fundamentals (OWASP API, Upload, Juice Shop, Pickle Rick)
-✅ OWASP Top 10 2025 (IAAA, Design Flaws, Data Handling, CVE-2025-29927)
-🔄 HackTheBox Academy — Penetration Tester CPTS (in progress)
-✅ Penetration Testing Process
-🔄 Getting Started (30%)
+   ✅ Web Fundamentals
+      ✅ How The Web Works
+         ✅ DNS in Detail
+         ✅ HTTP in Detail
+         ✅ How Websites Work
+         ✅ Putting It All Together
+      ✅ Introduction to Web Hacking (12 rooms)
+      ✅ Burp Suite (5 rooms)
+      ✅ Web Hacking Fundamentals
+         ✅ OWASP API Security Top 10
+         ✅ Upload Vulnerabilities
+         ✅ OWASP Juice Shop
+         ✅ Pickle Rick
+      ✅ OWASP Top 10 2025
+         ✅ IAAA Failures
+         ✅ Application Design Flaws
+         ✅ Insecure Data Handling
+         ✅ Next.js CVE-2025-29927
+🔄 HackTheBox Academy — CPTS (in progress)
+   ✅ Penetration Testing Process
+   🔄 Getting Started (30%)
 🚩 PicoCTF — 93+ challenges solved (active)
-✅ Web Exploitation (SQLi, XSS, IDOR, LFI, SSTI, RCE, JWT, Cookie)
-✅ Cryptography (ROT13, Base64, XOR, RSA, Unicode, Endianness)
-✅ Forensics (Steganography, EXIF, Disk imaging, Polyglot files)
-✅ General Skills (SSH, Netcat, Git, Python, QR decode, SHA256)
-✅ Reverse Engineering (Hash cracking, Binary analysis, SMB)
-✅ Binary Exploitation (Heap overflow, Format string, PIE bypass)
-
+   ✅ Web Exploitation
+   ✅ Cryptography
+   ✅ Forensics
+   ✅ General Skills
+   ✅ Reverse Engineering
+   ✅ Binary Exploitation
+```
 ---
 
 ## 🔗 Find Me
