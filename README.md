@@ -9,8 +9,8 @@
 - 🔐 Focused on **Web Penetration Testing** and **Red Team** techniques
 - 📚 Completed **TryHackMe Pre Security** and **Cyber Security 101** paths
 - 🔄 Currently progressing through **TryHackMe Jr Penetration Tester**
-- 🏆 TryHackMe **World Top 3%** 
-- 🚩 Solved **93+ PicoCTF** challenges across all categories
+- 🏆 TryHackMe **World Top 3%**
+- 🚩 Solved **93+ CyLab Security Academy (PicoCTF)** challenges across all categories
 - 🌱 Always learning — one vulnerability at a time
 
 ---
@@ -26,10 +26,12 @@
 
 **Penetration Testing**
 - Web Application Testing (SQLi, XSS, IDOR, LFI, SSRF, RCE, Race Conditions, DOM-Based Attacks, Upload Bypass, OWASP API)
-- Reconnaissance & OSINT (Nmap, Gobuster, Shodan, Google Dorks, crt.sh, Subfinder)
+- Network Security (Nmap, passive/active recon, port scanning, protocol attacks)
+- Reconnaissance & OSINT (Nmap, Gobuster, Shodan, Google Dorks, crt.sh, Subfinder, WHOIS, dig)
 - Authentication & Session attacks (JWT, Cookie manipulation, Brute Force, SQL Bypass)
 - Content & Subdomain Discovery (ffuf, VHost enumeration, DNS brute forcing)
 - Privilege Escalation (sudo misconfiguration, SUID binaries, GTFOBins)
+- Protocol Attacks (FTP, SMTP, POP3, IMAP — sniffing, brute force, enumeration)
 - Cryptography (ROT13, Base64, XOR, RSA, A1Z26, endianness, Unicode)
 - Forensics (Steganography, Disk imaging, EXIF metadata, File carving, Log analysis)
 - Reverse Engineering (XOR decryption, hash cracking, binary analysis, Ghidra)
@@ -38,20 +40,20 @@
 - CVE Research & Exploitation (Next.js CVE-2025-29927, middleware bypass)
 
 **Tools**
-- Burp Suite (Proxy · Repeater · Intruder · Decoder · Comparer · Extensions · Turbo Intruder · JWT Editor · Autorize)
+- Burp Suite (Proxy · Repeater · Intruder · Decoder · Comparer · Turbo Intruder · JWT Editor · Autorize)
 - Nmap · Gobuster · ffuf · sqlmap · Nikto · Hydra
-- curl · Netcat · ssh · scp · steghide · zsteg · CyberChef
+- curl · Netcat · ssh · scp · tcpdump · Wireshark
+- steghide · zsteg · CyberChef · binwalk · foremost
 - Subfinder · Amass · Dirb · smbclient · enum4linux
-- Ghidra · gdb · pwntools · binwalk · foremost
-- exiftool · john · hashcat · zbarimg · sha256sum
-- strings · find · grep · xxd · hexedit
+- Ghidra · gdb · pwntools · exiftool · john · hashcat
+- zbarimg · sha256sum · strings · xxd · hexedit · arp-scan
 
 ---
 
 ## 📂 Projects
 
-### 🚩 [PicoCTF Writeups](https://github.com/4n0nyrn0u5/picoctf-writeups)
-Step-by-step solutions for 93+ PicoCTF challenges across all categories.
+### 🚩 [CyLab CTF Writeups](https://github.com/4n0nyrn0u5/picoctf-writeups)
+Step-by-step solutions for 93+ CyLab Security Academy (PicoCTF) challenges across all categories.
 
 > SQLi · XSS · JWT · Cookie Manipulation · Command Injection · eval() RCE · Heap Overflow · Format String · PIE Bypass · Steganography · RSA · Git Forensics · Privilege Escalation · Hash Cracking · QR Decode · Polyglot Files
 
@@ -59,6 +61,11 @@ Step-by-step solutions for 93+ PicoCTF challenges across all categories.
 Personal reference notes from TryHackMe Pre Security and Cyber Security 101 paths.
 
 > Networking · Linux · Web Fundamentals · Recon · Web Attacks
+
+### 🔍 [Network Security Notes](https://github.com/4n0nyrn0u5/network-security-notes)
+Detailed notes and cheatsheets for TryHackMe Jr Pentester — Network Security module.
+
+> Passive Recon · Active Recon · Nmap (Host Discovery · Basic · Advanced · Post Scans) · FTP · SMTP · POP3 · IMAP · SSH · TLS · Hydra · Tcpdump
 
 ### 🌍 [Web Fundamentals Notes](https://github.com/4n0nyrn0u5/web-fundamentals-notes)
 Structured notes for TryHackMe Jr Pentester — Web Fundamentals module (5 categories).
@@ -78,46 +85,53 @@ Personal cheatsheets for TryHackMe Jr Pentester — Burp Suite module.
 ---
 
 ## 📈 Progress
-
-```
 ✅ TryHackMe — Pre Security
 ✅ TryHackMe — Cyber Security 101
 🔄 TryHackMe — Jr Penetration Tester (in progress)
-   ✅ Web Fundamentals
-      ✅ How The Web Works
-         ✅ DNS in Detail
-         ✅ HTTP in Detail
-         ✅ How Websites Work
-         ✅ Putting It All Together
-      ✅ Introduction to Web Hacking (12 rooms)
-      ✅ Burp Suite (5 rooms)
-      ✅ Web Hacking Fundamentals
-         ✅ OWASP API Security Top 10
-         ✅ Upload Vulnerabilities
-         ✅ OWASP Juice Shop
-         ✅ Pickle Rick
-      ✅ OWASP Top 10 2025
-         ✅ IAAA Failures
-         ✅ Application Design Flaws
-         ✅ Insecure Data Handling
-         ✅ Next.js CVE-2025-29927
+✅ Web Fundamentals
+✅ How The Web Works
+✅ DNS in Detail
+✅ HTTP in Detail
+✅ How Websites Work
+✅ Putting It All Together
+✅ Introduction to Web Hacking (12 rooms)
+✅ Burp Suite (5 rooms)
+✅ Web Hacking Fundamentals
+✅ OWASP API Security Top 10
+✅ Upload Vulnerabilities
+✅ OWASP Juice Shop
+✅ Pickle Rick
+✅ OWASP Top 10 2025
+✅ IAAA Failures
+✅ Application Design Flaws
+✅ Insecure Data Handling
+✅ Next.js CVE-2025-29927
+✅ Network Security
+✅ Passive Reconnaissance
+✅ Active Reconnaissance
+✅ Nmap Live Host Discovery
+✅ Nmap Basic Port Scans
+✅ Nmap Advanced Port Scans
+✅ Nmap Post Port Scans
+✅ Protocols and Servers
+✅ Protocols and Servers 2
+✅ Net Sec Challenge
 🔄 HackTheBox Academy — CPTS (in progress)
-   ✅ Penetration Testing Process
-   🔄 Getting Started (30%)
-🚩 PicoCTF — 93+ challenges solved (active)
-   ✅ Web Exploitation
-   ✅ Cryptography
-   ✅ Forensics
-   ✅ General Skills
-   ✅ Reverse Engineering
-   ✅ Binary Exploitation
-```
+✅ Penetration Testing Process
+🔄 Getting Started (30%)
+🚩 CyLab Security Academy (PicoCTF) — 93+ challenges solved (active)
+✅ Web Exploitation
+✅ Cryptography
+✅ Forensics
+✅ General Skills
+✅ Reverse Engineering
+✅ Binary Exploitation
 ---
 
 ## 🔗 Find Me
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-anonyrnous-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anonyrnous)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-anonyrnous-blue?style=flat&logoColor=white)](https://play.picoctf.org/users/anonyrnous)
+[![CyLab CTF](https://img.shields.io/badge/CyLab_CTF-anonyrnous-blue?style=flat&logoColor=white)](https://ctf.cylab.cmu.edu)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox_Academy-anonyrnous-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com)
 
 ---
