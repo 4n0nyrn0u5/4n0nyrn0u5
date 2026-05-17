@@ -131,7 +131,7 @@ Personal cheatsheets for TryHackMe Jr Pentester — Burp Suite module.
 ## 🔗 Find Me
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-anonyrnous-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/anonyrnous)
-[![CyLab CTF](https://img.shields.io/badge/CyLabCTF-anonyrnous-blue?style=flat&logoColor=white)](https://play.picoctf.org/users/anonyrnous)
+[![CyLab CTF](https://img.shields.io/badge/CyLab_CTF-anonyrnous-blue?style=flat&logoColor=white)](https://play.picoctf.org/users/anonyrnous)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox_Academy-anonyrnous-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com)
 
 ---
